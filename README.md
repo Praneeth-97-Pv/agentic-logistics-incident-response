@@ -245,11 +245,3 @@ This architecture represents a scalable model for enterprise-grade automation th
 
 ---
 
-## Author
-
-T’Vedt Lazenby  
-Atlanta, GA  
-
-Systems and AI Engineer | ServiceNow and Automation Builder  
-Website: [tvedtlazenby.me](https://tvedtlazenby.me)  
-Email: tvedtlazenby@gmail.com
