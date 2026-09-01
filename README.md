@@ -1,4 +1,4 @@
-# PepsiCo Delivery Delay Automation – Business Case and Technical Solution
+# Delivery Delay Automation – Business Case and Technical Solution
 
 ---
 
