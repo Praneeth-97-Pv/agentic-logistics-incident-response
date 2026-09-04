@@ -66,7 +66,7 @@ Support components include:
 
 | Screenshot | Description |
 |-------------|-------------|
-| <img width="852" height="554" alt="Screenshot 2025-10-09 at 8 46 02 AM" src="https://github.com/user-attachments/assets/c17f8529-6eb6-4d76-b7d8-2fd76a138b85" /> | **End-to-End System Architecture** – Full architecture view showing how the AI Agent, MCP tool, Script Include, and Flow Designer connect to automate delivery impact analysis. |
+|<img width="852" height="554" alt="Screenshot 2025-10-09 at 8 46 02 AM" src="https://github.com/user-attachments/assets/c17f8529-6eb6-4d76-b7d8-2fd76a138b85" /> | **End-to-End System Architecture** – Full architecture view showing how the AI Agent, MCP tool, Script Include, and Flow Designer connect to automate delivery impact analysis. |
 | <img width="752" height="345" alt="Screenshot 2025-10-09 at 9 18 20 AM" src="https://github.com/user-attachments/assets/aed38c71-d3b2-47e4-b0ba-f6c9ff572b73" /> | **Visual of Internal Issue** – Demonstrates how mismatched route IDs and instance targeting caused data retrieval errors during initial MCP setup. |
 | <img width="1458" height="770" alt="Screenshot 2025-10-09 at 9 12 51 AM" src="https://github.com/user-attachments/assets/cdd46e43-20fa-4284-a778-2246a1ae36b2" /> | **AI Agent Prompt** – Shows the final AI Agent prompt configuration used to parse ETA, delivery window, and penalty rate inputs before calling the MCP tool. |
 | <img width="1469" height="781" alt="Screenshot 2025-10-09 at 9 13 48 AM" src="https://github.com/user-attachments/assets/24355845-5c03-4798-ae68-24700f61d575" /> | **AI Agent Configuration** – Displays the step-by-step AI Agent Studio configuration, including role statement, agent steps, and connected MCP reference. |
