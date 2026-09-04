@@ -1,10 +1,10 @@
-# PepsiCo Delivery Delay Automation – Business Case and Technical Solution
+# UPS Delivery Delay Automation – Business Case and Technical Solution
 
 ---
 
 ## 1. Problem Statement
 
-PepsiCo’s logistics operations rely on accurate, real-time coordination between multiple ServiceNow instances.  
+UPS logistics operations rely on accurate, real-time coordination between multiple ServiceNow instances.  
 Each business unit (Logistics, Retail, and Delivery) operated in its own instance, creating data silos and communication delays.  
 
 When a delivery was late or exceeded its ETA window, three major issues occurred:
@@ -19,7 +19,7 @@ These disconnects increased operational costs, created data inconsistencies, and
 
 ## 2. Business Need
 
-PepsiCo required an intelligent, automated solution that could:
+UPS required an intelligent, automated solution that could:
 
 - Detect and calculate delivery delays in real time  
 - Automatically propagate status updates between instances  
