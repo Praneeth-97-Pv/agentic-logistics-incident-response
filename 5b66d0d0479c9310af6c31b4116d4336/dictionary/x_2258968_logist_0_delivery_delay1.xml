@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5f471054479c9310af6c31b4116d43e1" label="Delivery Delay1" max_length="40" name="x_2258968_logist_0_delivery_delay1" type="collection">
+        <element label="Calculated Impact" max_length="38" name="calculated_impact" type="decimal"/>
+        <element label="Route ID" max_length="40" name="route_id" type="string"/>
+        <element label="Stockout Penalty Rate" max_length="38" name="stockout_penalty_rate" type="decimal"/>
+        <element label="Last Updated" max_length="40" name="last_updated" type="glide_date_time"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Resloved" sequence="3" value="resloved"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Dispatched" sequence="2" value="dispatched"/>
+                <element inactive_on_update="false" label="Delayed" sequence="0" value="delayed"/>
+            </choice>
+        </element>
+        <element label="Instance Name" max_length="40" name="instance_name" type="string"/>
+        <element label="ETA Minutes" max_length="40" name="eta_minutes" type="integer"/>
+    </element>
+</database>
